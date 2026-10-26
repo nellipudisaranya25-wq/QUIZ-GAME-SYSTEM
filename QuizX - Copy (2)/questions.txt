@@ -1,0 +1,30 @@
+What is the capital of India?
+New Delhi
+Mumbai
+Chennai
+Hyderabad
+A
+What is the largest planet in our solar system?
+Earth
+Mars
+Jupiter
+Venus
+C
+ Who invented java?
+Dennis Ritchie
+Bjarne Stroustrup
+James Gosling
+Guido van Rossum
+c
+Which keyword is used to create a class in C++?
+struct
+class
+object
+new
+B
+who invented c++ programming?
+Bjarne Stroustrup
+Dennis Ritchie
+Guido van Rossum
+James Gosling
+a
